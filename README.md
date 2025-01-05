@@ -1,14 +1,14 @@
 <img src="https://github.com/AbdallahGasem/AbdallahGasem/blob/main/GithubBanner.png" alt="Banner" />
 
-# Hello World! I am Abdallah 👋
+# Hello World! I am Mohamed 👋
 
 **`T-Shaped Tech Enthusiast (Developer/Data Scientist/Instructor)`**
 
-I am an Information Systems student at the Faculty of Computers and Artificial Intelligence Cairo University, my focus is on Software & Data Engineering, Data Science and I have a strong interest in building applications. Beyond academics, I actively contribute to the tech community as a Programming Member at LinkCU and explore my creative side as a Photography Member at MSPCU. I continually seek to expand my knowledge and skills through open-source projects, Challenges and staying current with industry trends.
+Aspiring Back end Developer and Applied Science Enthusiast with practical experience in backend development, competitive programming, and data-driven projects. Currently pursuing a Bachelor's degree in Computers and Artificial Intelligence at Cairo University (expected graduation: 2026) with a GPA of 3.3. Skilled in building robust backend systems, optimizing database performance, and applying data science techniques to solve real-world problems. Proven ability to collaborate in team environments, mentor peers, and excel in programming competitions like ECPC 2024. Passionate about leveraging backend technologies and data analytics to develop innovative, scalable solutions.
 
 📬 Let's Connect:
 
-[LinkedIn](https://www.linkedin.com/in/abdallahgasem) | [CV](https://drive.google.com/file/d/1Nf-d2p3FI4GVenNvZRp9D_VpdHDEfBgm/view?usp=sharing)
+[LinkedIn](linkedin.com/in/MohamedWagdyMW) | [CV](https://drive.google.com/file/d/1Nf-d2p3FI4GVenNvZRp9D_VpdHDEfBgm/view?usp=sharing)
 
 ---
 
