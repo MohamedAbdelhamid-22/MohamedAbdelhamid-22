@@ -1,6 +1,6 @@
 <img src="image.png" alt="Banner" />
 
-# Hello World! I am Mohamed 👋
+# Hello I am Mohamed 👋
 
 **`T-Shaped Tech Enthusiast (Developer/Data Scientist/Instructor)`**
 
