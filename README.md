@@ -1,4 +1,4 @@
-<img src="[https://github.com/AbdallahGasem/AbdallahGasem/blob/main/GithubBanner.png](https://github.com/MohamedAbdelhamid-22/MohamedAbdelhamid-22/blob/main/image.png?raw=true)" alt="Banner" />
+<img src="image.png" alt="Banner" />
 
 # Hello World! I am Mohamed 👋
 
