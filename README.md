@@ -4,7 +4,7 @@
 
 **`T-Shaped Tech Enthusiast (Developer/Data Scientist/Instructor)`**
 
-Aspiring Back end Developer and Applied Science Enthusiast with practical experience in backend development, competitive programming, and data-driven projects. Currently pursuing a Bachelor's degree in Computers and Artificial Intelligence at Cairo University (expected graduation: 2026) with a GPA of 3.3. Skilled in building robust backend systems, optimizing database performance, and applying data science techniques to solve real-world problems. Proven ability to collaborate in team environments, mentor peers, and excel in programming competitions like ECPC 2024. Passionate about leveraging backend technologies and data analytics to develop innovative, scalable solutions.
+Aspiring Back end Developer and Applied Science Enthusiast with practical experience in backend development, competitive programming, and data-driven projects. Currently pursuing a Bachelor's degree in Computers and Artificial Intelligence at Cairo University (expected graduation: 2026) with a GPA of 3.26. Skilled in building robust backend systems, optimizing database performance, and applying data science techniques to solve real-world problems. Proven ability to collaborate in team environments, mentor peers, and excel in programming competitions like ECPC 2024. Passionate about leveraging backend technologies and data analytics to develop innovative, scalable solutions.
 
 📬 Let's Connect:
 
