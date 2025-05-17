@@ -8,7 +8,7 @@ Aspiring Back end Developer and Applied Science Enthusiast with practical experi
 
 📬 Let's Connect:
 
-[LinkedIn](https://www.linkedin.com/in/mohamedwagdymw/) | [CV](https://drive.google.com/file/d/1xErfIg07s7kHxnJNBYAv2z9cJYQDTDOt/view?usp=sharing)
+[LinkedIn](https://www.linkedin.com/in/mohamedwagdymw/) | [CV](https://drive.google.com/file/d/1o5iPsuFpcxjAvdh5N_TPPNe_AfIBMgkZ/view?usp=drive_link)
 ---
 
 ### 🧰 Languages and Tools
